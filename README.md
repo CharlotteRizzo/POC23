@@ -1,3 +1,3 @@
-# POC23
-Site du POC 2023
-code repris du site statique de Daisee http://daisee.github.io 
+# Site web
+
+Ce répertoire contient les sources du (proto) [site web](http://daisee.github.io) de DAISEE. 
